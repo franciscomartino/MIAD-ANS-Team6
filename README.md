@@ -21,7 +21,7 @@ Francisco Martino
 ¿Cuáles son los factores más relevantes que permiten segmentar el grupo de estudiantes que presenta la prueba ICFES Saber 11 con el fin de saber a qué carrera de educación superior se puede presentar? 
 
 ### Objetivo del Proyecto
-A partir de las técnicas de analítica y modelamiento predictivo enmarcadas en el Machine Learning No Supervizado, queremos resolver la pregunta de investigación descrita.
+A partir de las técnicas de analítica y modelamiento predictivo enmarcadas en el Machine Learning No Supervisado, queremos resolver la pregunta de investigación descrita.
 
 ## Guía de Navegación
 
