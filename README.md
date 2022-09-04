@@ -29,6 +29,8 @@ En la sección `Data` encontrará las fuentes de datos utilizadas en el siguient
 
 En la sección `Código` se encontrará el código en Python (Jupyter Notebooks) con el resultado del análisis exploratorio y los algoritmos y conclusiones encontradas
 
+En la sección `Resultados Preliminares` se encuentran los resultados preliminares de los modelos implementados
+
 En la sección `Documento` se encontrará el Informe del Proyecto con las principales Conclusiones, Resultados y la Metodología utilizada.
 
 En la sección `Images` se encuentran archivos e imágenes de soporte utilizadas en el Proyecto
